@@ -47,7 +47,8 @@ It provides a foundation for future enhancements such as mobile integration, clo
 
 
 ## 👨‍💻 Contributors
-- Project Team :
+- Project Team Members:
+
     Anjali Ajith
     
     Tejaswini R
